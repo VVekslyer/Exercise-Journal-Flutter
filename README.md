@@ -12,6 +12,10 @@ Set up a device or emulator. You can use one of the following:
 - Android
 - iOS
 - Web
+- Windows
+- Mac
+- Linux
+- WearOS 👀
 
 Run the project:
 
